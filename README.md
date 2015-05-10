@@ -3,7 +3,7 @@ A very simple color picker widget. <br />
 <b>Installation:</b>
 
 <ul>
-  <li>Get the .aar file from <a href="">here</a>. </li>
+  <li>Get the .aar file from <a href="https://github.com/triforce930/ColorPickerViewAndroid/blob/master/kscolorpicker-release.aar?raw=true">here</a>. </li>
   <li>Right click on the Android Studio project and click "Open Module Settings". </li>
   <li>Click the plus button over the module list. </li>
   <li>Select "import .jar or .aar file" from the list. Select the .aar file you have downloaded before. </li>
